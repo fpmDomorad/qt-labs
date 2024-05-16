@@ -1,0 +1,102 @@
+[
+    {
+        "age": 30,
+        "education": "Higher education",
+        "gender": "male",
+        "height": 180,
+        "hobbies": "Reading, hiking",
+        "id": 1,
+        "name": "Vladimir",
+        "number": "963(617)7322-40-98"
+    },
+    {
+        "age": 21,
+        "education": "General secondary education",
+        "gender": "female",
+        "height": 165,
+        "hobbies": "Painting, traveling",
+        "id": 2,
+        "name": "Alice",
+        "number": "2(788)8956-67-24"
+    },
+    {
+        "age": 35,
+        "education": "Secondary special education",
+        "gender": "male",
+        "height": 175,
+        "hobbies": "Photography, traveling",
+        "id": 3,
+        "name": "Ivan",
+        "number": "2(788)8956-67-23"
+    },
+    {
+        "age": 28,
+        "education": "Higher education",
+        "gender": "female",
+        "height": 168,
+        "hobbies": "Dancing, reading",
+        "id": 4,
+        "name": "Helen",
+        "number": "2(788)8926-67-25"
+    },
+    {
+        "age": 24,
+        "education": "Higher education",
+        "gender": "male",
+        "height": 185,
+        "hobbies": "Sports, cinema",
+        "id": 5,
+        "name": "Petr",
+        "number": "2(788)8956-57-25"
+    },
+    {
+        "age": 29,
+        "education": "Secondary special education",
+        "gender": "female",
+        "height": 169,
+        "hobbies": "Drawing, traveling",
+        "id": 6,
+        "name": "Olha",
+        "number": "2(788)8996-67-25"
+    },
+    {
+        "age": 31,
+        "education": "Higher education",
+        "gender": "male",
+        "height": 178,
+        "hobbies": "Music, sports",
+        "id": 7,
+        "name": "Mikhail",
+        "number": "2(788)8956-60-25"
+    },
+    {
+        "age": 20,
+        "education": "General secondary education",
+        "gender": "female",
+        "height": 163,
+        "hobbies": "Photography, cooking",
+        "id": 8,
+        "name": "Natalia",
+        "number": "2(788)8956-67-05"
+    },
+    {
+        "age": 22,
+        "education": "Secondary special education",
+        "gender": "male",
+        "height": 175,
+        "hobbies": "Reading, traveling",
+        "id": 9,
+        "name": "Alexander",
+        "number": "2(788)8156-67-25"
+    },
+    {
+        "age": 30,
+        "education": "Higher education",
+        "gender": "female",
+        "height": 170,
+        "hobbies": "Theater, traveling",
+        "id": 10,
+        "name": "Svetlana",
+        "number": "2(788)8916-67-25"
+    }
+]
