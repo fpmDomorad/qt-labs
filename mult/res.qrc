@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/mult phon.jpg</file>
+        <file>img/vinni.png</file>
+        <file>img/3F3F3F3F.webp</file>
+    </qresource>
+</RCC>
